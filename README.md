@@ -14,7 +14,7 @@ Note that many of the problems involve implementing the solution in code (I usua
 **Chapter 6: Weighted Graph Algorithms** - 10 solved out of 25 = 40%  
 **Chapter 7: Combinatorial Search and Heuristic Methods** - 5 solved out of 19 = 26%  
 **Chapter 8: Dynamic Programming** - 6 solved out of 26 = 23%  
-**Chapter 9: Intractable Problems and Approximation Algorithms** - 0 solved out of 30 = 0%  
+**Chapter 9: Intractable Problems and Approximation Algorithms** - 7 solved out of 30 = 23%  
 
 **Total:** 94 solved out of 293 = 32%
 

@@ -16,6 +16,6 @@ Note that many of the problems involve implementing the solution in code (I usua
 **Chapter 8: Dynamic Programming** - 6 solved out of 26 = 23%  
 **Chapter 9: Intractable Problems and Approximation Algorithms** - 7 solved out of 30 = 23%  
 
-**Total:** 94 solved out of 293 = 32%
+**Total:** 101 solved out of 293 = 34%
 
 ![Progress](Figures/Hallock_Fig_0-1.png)

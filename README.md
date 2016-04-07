@@ -1,6 +1,6 @@
 # Algorithm_Exercises
 
-In this repo are my solutions to some of the exercises from Steven Skiena’s Algorithm Design Manual. My goal is to solve all of them.
+In this repo are my solutions to some of the exercises from Steven Skiena’s Algorithm Design Manual. My goal, unless I later decide otherwise, is to solve all of them.
 
 Note that many of the problems involve implementing the solution in code (I usually use Python), but there are separately numbered "Programming Challenges" that must be implemented in C and can be submitted online for automated judging. There are 42 of them, and I believe they are derived from another book by Skiena. I intend to do these as well, but haven't started yet.
 

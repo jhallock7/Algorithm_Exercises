@@ -18,4 +18,4 @@ Note that many of the problems involve implementing the solution in code (I usua
 
 **Total:** 94 solved out of 293 = 32%
 
-![Progress](Figures/Hallock Fig 0-1.png)
+![Progress](Figures/Hallock_Fig_0-1.png)

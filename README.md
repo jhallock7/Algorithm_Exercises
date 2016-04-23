@@ -16,4 +16,4 @@ In this repo are my solutions to some of the exercises from Steven Skiena’s Al
 
 **Total:** 104 solved out of 293 = 35%
 
-![Progress](Figures/Hallock_Fig_0-1.png)
+![Progress](Figures/Hallock_Fig_0-2.png)
